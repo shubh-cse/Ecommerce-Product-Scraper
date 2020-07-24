@@ -1,6 +1,6 @@
 # Ecommerce Product Scraper
 
-*In order to save the time of customers and to help them comparing the prices and ratings of diiferent products, we can use Ecommerce Product Scraper.*
+*In order to save the time of customers and to help them comparing the prices and ratings of different products, we can use Ecommerce Product Scraper.*
 
 *In this use case, Product Scraper is used to compare five different smart phones from two different brands which are listed below :-*
 
