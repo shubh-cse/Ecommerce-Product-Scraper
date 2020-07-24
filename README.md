@@ -10,4 +10,6 @@
 4. Samsung Galaxy S10 Lite (Prism Blue, 128 GB)  (8 GB RAM)
 5. Apple iPhone 11 (Black, 64 GB)
 
-#### *Selenium is used to scrap the details of the ecommerce products.*
+#### *Selenium is used to scrap the details about the products.*
+
+![screenshot](https://user-images.githubusercontent.com/68144553/88426781-61458a00-ce0f-11ea-97d1-f5ff81c251fa.JPG)
